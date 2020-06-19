@@ -1,8 +1,8 @@
 ## MARLENE AVILES 
 
-## MASTER OF SCIENCE IN DATA SCIENCE 
+### MASTER OF SCIENCE IN DATA SCIENCE 
 
-## BELLEVUE UNIVERSITY
+### BELLEVUE UNIVERSITY
 
 Entry-level data scientist proficient in data extraction,
 interpretation, reporting, and visualizations. Presently enrolled
