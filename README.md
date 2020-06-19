@@ -1,5 +1,3 @@
-# Data Science Portfolio
-
 ## MARLENE AVILES 
 
 ## MASTER OF SCIENCE IN DATA SCIENCE 
