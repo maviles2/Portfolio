@@ -14,25 +14,26 @@ success of this industry.
 
 ### LIST OF PROJECTS:
 
-Airline Safety 
+AIRLINE SAFETY
 
-Big Data and Data Science Proposal
+BIG DATA AND DATA SCIENCE PROPOSAL
 
-Dodgers Analytics 
+DODGERS PREDICTIVE ANALYTICS 
 
-Hate Crimes
+DETERMINANTS TO HATE CRIMES
 
-Simple Python Application 
+PYTHON RECEIPT GENERATOR APPLICATION
 
-Stock Market Predictive Analytics
+STOCK MARKET PREDICTIVE ANALYTICS
 
-Student Success Case Study
+STUDENT SUCESS CASE STUDY
 
 TBD..
 
-Texas Child Protective Services
+TEXAS CHILD PROTECTIVE SERVICES ANALYSIS
 
-World Happiness Report
+WOLRD HAPPINESS REPORT 
+
 
 
 
