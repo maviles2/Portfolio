@@ -1,40 +1,5 @@
 ## MARLENE AVILES 
 
-### MASTER OF SCIENCE IN DATA SCIENCE 
-
-### BELLEVUE UNIVERSITY
-
-> Entry-level data scientist proficient in data extraction,
-> interpretation, reporting, and visualizations. Presently enrolled
-> in a Master of Data Science program to heighten my skills and
-> a highly motivated team player with exceptional interpersonal,
-> verbal, and written skills committed to contributing to the
-> success of this industry.
-
-
-### LIST OF PROJECTS:
-
-* AIRLINE SAFETY
-
-* BIG DATA AND DATA SCIENCE PROPOSAL
-
-* DODGERS PREDICTIVE ANALYTICS 
-
-* DETERMINANTS TO HATE CRIMES
-
-* PYTHON RECEIPT GENERATOR APPLICATION
-
-* STOCK MARKET PREDICTIVE ANALYTICS
-
-* STUDENT SUCCESS CASE STUDY
-
-* TWITTER SENTIMENT ANALYSIS
-
-* TEXAS CHILD PROTECTIVE SERVICES ANALYSIS
-
-* WOLRD HAPPINESS REPORT 
-
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -160,7 +125,6 @@
                             <h3 class="mb-0">World Happines Analysis</h3>
                             <div class="subheading mb-3">Exploratory Data Analysis</div>
                             <p>The World Happiness Report was analyzed via Exploratory Data Analysis was executed.</p>
-                    </div>
                 </div>
             </section>
             <hr class="m-0" />
