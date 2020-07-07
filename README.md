@@ -92,7 +92,7 @@
             </section>
             <hr class="m-0" />
             <!-- Experience-->
-        <section class="resume-section" id="projects">
+                <section class="resume-section" id="projects">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Projects</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -117,49 +117,49 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Determinants to Hate Crimes</h3>
                             <div class="subheading mb-3">Python & PowerPoint</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-.</p>
+                            <p>Determinants to hate crimes in the United States were analyzed.</p>
                     </div>
                         </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Python Receipt Generator</h3>
                             <div class="subheading mb-3">Intro to Python</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-.</p>
+                            <p>A simple receipt generator application was created.</p>
                     </div>
                         </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Stock Market Prediction</h3>
                             <div class="subheading mb-3">Predictive Analytics</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-.</p>
+                            <p>Tech company stocks were analyzed and predicted.</p>
                     </div>
                         </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Student Success Case Study</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-.</p>
+                            <div class="subheading mb-3">TBD</div>
+                            <p>The sucess rate of student's was analyzed in Portugal.</p>
                     </div>
                         </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Texas Child Protective Services Analysis</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-.</p>
+                            <div class="subheading mb-3">Data Extraction</div>
+                            <p>Data from Child Protective Services (CPS) in Texas was analyzed.</p>
                     </div>
                         </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Twitter Sentiment Analysis</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-.</p>
+                            <div class="subheading mb-3">Natural Language Processing</div>
+                            <p>The sentiment of tweets was analyzed.</p>
                     </div>
                         </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">World Happines Analysis</h3>
-                            <div class="subheading mb-3">Shout! Media Productions</div>
-                            <p>Collaboratively administrate empowered markets via plug-and-.</p>
+                            <div class="subheading mb-3">Exploratory Data Analysis</div>
+                            <p>The World Happiness Report was analyzed via Exploratory Data Analysis was executed.</p>
                     </div>
                 </div>
             </section>
